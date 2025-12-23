@@ -1,0 +1,8 @@
+<resources>
+    <!-- App name -->
+    <string name="app_name">RSS App</string>
+
+    <!-- FeedsSelectionScreen -->
+    <string name="choose_feeds">Valitse syötteet</string>
+    <string name="confirm_selection">Näytä valitut syötteet</string>
+</resources>
